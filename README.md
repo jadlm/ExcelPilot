@@ -53,3 +53,9 @@ Les questions simples sur les chiffres et la qualite restent locales. Pour une q
 Pas encore de comptes, isolation de donnees multi-utilisateurs, stockage cloud, quota durable, paiements, rapports PDF, taux TVA, calcul de stock ou annulation du nettoyage. Le fournisseur doit etre configure et teste avant d'annoncer une IA active en production.
 
 Le fournisseur OpenAI utilise par defaut l'endpoint Chat Completions documente ici: https://platform.openai.com/docs/api-reference/chat/create
+
+## Essai gratuit
+
+L’interface lance un essai de 7 jours au premier accès dans le navigateur et verrouille l’application après son expiration. Le démarrage est conservé dans le stockage local du navigateur : ce mécanisme est une maquette et ne remplace pas une licence côté serveur liée à un compte. Aucun abonnement ni paiement n’est actif; le bouton de souscription reste désactivé jusqu’à la configuration d’un fournisseur de paiement et des offres.
+
+Le tableau de bord permet de choisir une colonne de catégorie et une mesure numérique pour créer un graphique en barres. Le bouton « Importer un fichier » accepte les classeurs et CSV déjà pris en charge.
